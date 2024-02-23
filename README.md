@@ -1,6 +1,6 @@
 <h1 align="center">🔷 Student Management Application 🔷</h1>
 
-Welcome to the Student Management Application! This project provides a code to manage student information effectively.
+Welcome to the Student Management Application! This project provides a platform to manage student information effectively.
 
 ## Table of Contents
 
