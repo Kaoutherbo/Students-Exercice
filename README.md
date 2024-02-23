@@ -86,6 +86,6 @@ public class TestStudent {
 
 ### Sample Output:
 
-<img src="./Assets/sample_output.png" width="100%" />
+<img src="./Assets/Student.PNG" width="100%" />
 
 
